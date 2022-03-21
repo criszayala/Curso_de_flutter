@@ -1,2 +1,2 @@
 # Curso_de_flutter
-Curso de flutter (Platzi)
+Apuntes relacionados al curso de flutter
